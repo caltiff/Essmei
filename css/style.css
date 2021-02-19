@@ -54,7 +54,7 @@ nav a {
 }
 
 .hero {
-  background-image: url("/Users/callumtiffany/Documents/Superhi!/005-essmei/assets/hero.jpg");
+  background-image: url("/assets/hero.jpg");
   background-position: right center;
   background-size: cover;
   padding-top: 100px;
